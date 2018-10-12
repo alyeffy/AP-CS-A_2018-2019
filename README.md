@@ -1,7 +1,7 @@
 # AP-CS-A_2018-2019
 Course Materials for AP Computer Science A with EEI (2018-2019)
 
-For most recent updates and announcements, please see the [issues](https://github.com/alyeffy/AP-CS-A_2018-2019/issues) for this repository.
+For **most recent updates and announcements**, please see the [issues](https://github.com/alyeffy/AP-CS-A_2018-2019/issues) for this repository.
 
 ## Sections
 - [Course Overview](#course-overview)
@@ -117,14 +117,14 @@ Collection in progress :)
 5. [Standard Operations and Algorithms](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_5) - 5 Lessons
 6. [Computing in Context](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_6) - 1 Lesson
 
-## [Tentative Class Schedule*](https://www.sd38.bc.ca/Documents/Calendar2018-2019.pdf)
-| TOPIC | WEEK | DATE | DETAILS | PREP | LECTURE SLIDES | ASSIGNMENT(S) | LAB |
+## [Tentative Class Schedule](https://www.sd38.bc.ca/Documents/Calendar2018-2019.pdf)
+| TOPIC | WEEK | DATE | DETAILS | PREP | LECTURE NOTES | ASSIGNMENT(S) | LAB |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 05/10/2018 | Intro to the Java language, Object-Oriented Programs, and Basic Program Design Approaches |  |  |  |  |  |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 1 | 05/10/2018 | Intro to the Java language, Object-Oriented Programs, and Basic Program Design Approaches | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T1-Lesson_01-05102018.md) | :white_check_mark: | :x: |
 |  | | 08/10/2018 | **THANKSGIVING** | | | | |
-| 1 | 2 | 15/10/2018 |  |  |  |  |  |
-| 1 | 3 | 22/10/2018 |  |  |  |  |  |
-| 1 | 4 | 29/10/2018 |  |  |  |  |  |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 2 | 15/10/2018 |  |  |  |  |  |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 3 | 22/10/2018 |  |  |  |  |  |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 4 | 29/10/2018 |  |  |  |  |  |
 | 2 | 5 | 05/11/2018 |  |  |  |  |  |
 |  | | 12/11/2018 | **REMEMBRANCE DAY** | | | | |
 | 2 | 6 | 19/11/2018 |  |  |  |  |  |
