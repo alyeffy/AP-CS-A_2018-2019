@@ -1,7 +1,7 @@
 # AP-CS-A_2018-2019
 Course Materials for AP Computer Science A with EEI (2018-2019)
 
-For most recent updates and announcements, please see the [issues](https://github.com/alyeffy/AP-CS-A_2018-2019/issues)
+For most recent updates and announcements, please see the [issues](https://github.com/alyeffy/AP-CS-A_2018-2019/issues) for this repository.
 
 ## Sections
 - [Course Overview](#course-overview)
@@ -16,7 +16,7 @@ For most recent updates and announcements, please see the [issues](https://githu
 - **Instructor**: [Alyssa Fegen](http://www.alyssafegen.com), BSc. Combined Major - Computer Science & Microbiology
 - **Contact**: [Email](mailto:alyssafegen@alumni.ubc.ca)
 - **Location**: [Elite Educational Institute](http://www.eliteprep.ca/?lang=en) - Richmond Campus (5560-8181 Cambie Rd, Richmond, BC V6X 3X9)
-- **Class Time**: Mondays, 15:30 - 17:30 (2 hours a week, ~25 Classes Total i.e. ~50 hours of in-class instruction time)
+- **Class Time**: Mondays, 15:30 - 17:30 (**2 hours a week**, **25 Classes Total** i.e. **50 hours of in-class instruction time**)
 ### Teaching Style
 Classes are modeled after university-style CS courses and will vary, but generally have one or a mix of the following structures:
 - **Lecture and class discussion** on new concepts and syntax from the current topic
@@ -24,24 +24,24 @@ Classes are modeled after university-style CS courses and will vary, but general
 - **Individual/collaborated free time** to work on the current assignment/lab with supervision
 
 BEFORE CLASS:
-- Readings and/or videos may be assigned to students to read/watch prior to the next class to be prepared. **Please take a look at the GitHub issues regularly** to find out what you need to prepare.
+- Readings and/or videos may be assigned to students to read/watch prior to the next class to be prepared. **Please take a look at the [GitHub issues](https://github.com/alyeffy/AP-CS-A_2018-2019/issues) regularly** to find out what you need to prepare.
 - **Collect any printouts/worksheets for class from my pigeonhole when you arrive**. Readings will be distributed in topic bundles prior to the beginning of the next topic.
 - **If you need to bring a laptop to the next class, I will announce it in the issues** before the next class
 
 AFTER CLASS:
 - **Working together on assignments/labs is allowed**, but directly **copying code** from each other or plagiarizing code from the web **is not**. **Assignments/labs will be submitted on GitHub** so that submissions can be tracked. GitHub issues will be used to delegate these assignments and labs and establish their deadlines.
-- Students may **seek assistance** from me or other classmates for assignments/labs **via GitHub**. I will allot 30-60 minutes a weekday addressing any questions. For information on formatting your comments, refer to this [GitHub markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
+- Students may **seek assistance** from me or other classmates for assignments/labs **via GitHub**. **I will allot 30-60 minutes a weekday addressing any questions**. For information on formatting your comments, refer to this [GitHub markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 - **Email communication should be reserved for only very URGENT assignment/lab/exam-related questions, administrative issues** (e.g. unable to attend/late to class) or other clarifications. I am unlikely to share my cellphone number with students.
 
 ASSESSMENT:
-- **Progress will be monitored using these assignments and labs**. If time permits, I may assign a coding project for students to work on over the spring break, and online tests/quizzes at the end of each unit.
-- I will try my best to make sure that the **last class before the exam will be a review and Q + A session** with a mock exam for practice and going through the answers together.
+- **Progress will be monitored using these assignments and labs**. If time permits, I may assign a **coding project** for students to work on over the spring break, and **online tests/quizzes** at the end of each topic.
+- I will try my best to make sure that the **last class before the exam will be a review and Q + A session** with a **mock exam** for practice and going through the answers together.
 
 ## [Course Description](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-description.pdf?course=ap-computer-science-a)
 - **Course Language**: Java
 - **Development Environment**: Eclipse IDE - [Setup Instructions](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/SETUP_and_WORKFLOW.md)
 - **Version Control**: GitHub - [Setup Instructions](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/SETUP_and_WORKFLOW.md) | [Tutorial](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-- **Prerequisites**: Basic understanding of English and Algebra, Functions, and Mathematical Reasoning
+- **Prerequisites**: Basic understanding of **English**, **Algebra**, **Functions**, and **Mathematical Reasoning**
 
 ### Goals:
 - Design, implement, and analyze solutions to problems
@@ -54,7 +54,7 @@ ASSESSMENT:
 - Understand the ethical and social implications of computer use
 
 ## [The AP Exam](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam?course=ap-computer-science-a)
-**NOTE**: While the exam determines your final grade, the course MUST include at least 20 hours of hands-on lab experiences. Details on these labs can be found in the class schedule/topic outline.
+**NOTE**: While the exam determines your final grade, the course MUST include **at least 20 hours of hands-on lab experiences**. Details on these labs can be found in the class schedule/topic outline.
 - **DATE**:       Friday, 17 May 2019
 - **TIME**:       12:00 - 15:00
 - **DURATION**:   3 Hours
@@ -85,11 +85,11 @@ Depending on the university you are intending to apply to, **your exam score wil
 - [Popular Java book](https://www.amazon.com/Java-How-Program-8th-Edition/dp/0136053068) - just for your information, absolutely not necessary for this course
 
 ### Textbooks
-There is no required text that you will need to purchase for this course. However, most of the materials in this course will be based on these books:
-- [Barron's AP Computer Science A - 8th Edition](https://www.amazon.com/Barrons-Computer-Science-Bonus-Online-ebook/dp/B07C2C7HH1) - lots of questions and most of the assignment questions will come from this book, recommended for your own practice as well if you wish to purchase
-- [McGraw Hill 5 Steps to a 5 - AP Computer Science A (2017)](https://www.amazon.ca/Steps-AP-Computer-Science-2017/dp/0071845909) - great summary of concepts and most of the readings will be from this book
+There is **no required text that you will need to purchase** for this course. However, most of the materials in this course will be based on these books, which have great **summaries of the concepts**, and **lots of practice questions and exams**, so they are **recommended** for your own self-study if you wish:
+- [Barron's AP Computer Science A - 8th Edition](https://www.amazon.com/Barrons-Computer-Science-Bonus-Online-ebook/dp/B07C2C7HH1)
+- [McGraw Hill 5 Steps to a 5 - AP Computer Science A (2017)](https://www.amazon.ca/Steps-AP-Computer-Science-2017/dp/0071845909)
 
-I also may be incorporating anything I might have learned from the following Computer Science courses I have completed at UBC that I think may be relevant:
+I also may be incorporating anything I might have learned from the following selection of Computer Science courses I have completed at UBC that I think may be relevant:
 - [CPSC 110](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=CPSC&course=110): Systematic Program Design
 - [CPSC 121](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=CPSC&course=121): Models of Computation
 - [CPSC 210](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=CPSC&course=210): Software Construction
@@ -152,7 +152,6 @@ Collection in progress :)
 |  | | 22/04/2019 | **EASTER MONDAY** | | | | |
 | 5 | 23 | 29/04/2019 |  |  |  |  |  |
 | 5 | 24 | 06/05/2019 |  |  |  |  |  |
-
 | 6 | 25 | 13/05/2019 |  |  |  |  |  |
 | | | 17/05/2019 | **EXAM DAY** |  |  |  |  |
 
