@@ -1,13 +1,7 @@
 # AP-CS-A_2018-2019
 Course Materials for AP Computer Science A with EEI (2018-2019)
-## ANNOUNCEMENTS (Last Updated: 04/10/2018)
-Please check weekly class announcements here! They will also be emailed to you :)
 
-- Welcome to AP Computer Science A with EEI!
-- If you have time before the first class, please download and install ___ and its dependencies ___
-- Also, please set up a free GitHub account, and check out this tutorial on it.
-
-[Archived announcements]()
+For most recent updates and announcements, please see the [issues](https://github.com/alyeffy/AP-CS-A_2018-2019/issues)
 
 ## Sections
 - [Course Overview](#course-overview)
@@ -22,25 +16,31 @@ Please check weekly class announcements here! They will also be emailed to you :
 - **Instructor**: [Alyssa Fegen](http://www.alyssafegen.com), BSc. Combined Major - Computer Science & Microbiology
 - **Contact**: [Email](mailto:alyssafegen@alumni.ubc.ca)
 - **Location**: [Elite Educational Institute](http://www.eliteprep.ca/?lang=en) - Richmond Campus (5560-8181 Cambie Rd, Richmond, BC V6X 3X9)
-- **Class Time**: Fridays, 17:30 - 19:30 (2 hours a week, ~25 Classes Total i.e. ~50 hours of in-class instruction time)
-### Teaching Approach
-Classes will vary but will generally have one or a mix of the following structures:
-- Lecture and class discussion on new concepts and syntax from the current unit
-- Collaborative programming exercises/examples/problems involving the whole class to work together to create a solution
-- Individual/collaborated free time to work on the current assignment/lab with supervision
+- **Class Time**: Mondays, 15:30 - 17:30 (2 hours a week, ~25 Classes Total i.e. ~50 hours of in-class instruction time)
+### Teaching Style
+Classes are modeled after university-style CS courses and will vary, but generally have one or a mix of the following structures:
+- **Lecture and class discussion** on new concepts and syntax from the current topic
+- **Collaborative exercises/examples/problems** involving the whole class to work together to create a solution, usually involving coding (on paper or on a laptop)
+- **Individual/collaborated free time** to work on the current assignment/lab with supervision
 
-Outside of Class:
-- Readings and/or videos may be assigned to students to read/watch prior to the next class to be prepared.
-- Students are expected to work on the assignments/labs for the week and submit them by their deadlines. Students may collaborate by discussing answers but must not share code.
-- Students may ask me questions about assignments/labs via GitHub. I will allot 30-60 minutes a weekday addressing these questions.
-- Email communication should be reserved for only very urgent assignment/lab/exam-related questions, administrative issues (e.g. unable to attend/late to class) or other clarifications. I am unlikely to share my cellphone number with students.
+BEFORE CLASS:
+- Readings and/or videos may be assigned to students to read/watch prior to the next class to be prepared. **Please take a look at the GitHub issues regularly** to find out what you need to prepare.
+- **Collect any printouts/worksheets for class from my pigeonhole when you arrive**. Readings will be distributed in topic bundles prior to the beginning of the next topic.
+- **If you need to bring a laptop to the next class, I will announce it in the issues** before the next class
 
-Progress will be tracked using these assignments and labs. To facilitate instructor and student interaction outside of class hours, assignments/labs will be submitted on GitHub so that submissions can be tracked. GitHub issues will be used to delegate assignments/labs, impose deadlines, and encourage discussion amongst students as well as the instructor.
+AFTER CLASS:
+- **Working together on assignments/labs is allowed**, but directly **copying code** from each other or plagiarizing code from the web **is not**. **Assignments/labs will be submitted on GitHub** so that submissions can be tracked. GitHub issues will be used to delegate these assignments and labs and establish their deadlines.
+- Students may **seek assistance** from me or other classmates for assignments/labs **via GitHub**. I will allot 30-60 minutes a weekday addressing any questions. For information on formatting your comments, refer to this [GitHub markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
+- **Email communication should be reserved for only very URGENT assignment/lab/exam-related questions, administrative issues** (e.g. unable to attend/late to class) or other clarifications. I am unlikely to share my cellphone number with students.
+
+ASSESSMENT:
+- **Progress will be monitored using these assignments and labs**. If time permits, I may assign a coding project for students to work on over the spring break, and online tests/quizzes at the end of each unit.
+- I will try my best to make sure that the **last class before the exam will be a review and Q + A session** with a mock exam for practice and going through the answers together.
 
 ## [Course Description](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-description.pdf?course=ap-computer-science-a)
 - **Course Language**: Java
-- **Development Environment**: Eclipse IDE - [Setup Instructions]() | DrJava - [Setup Instructions]()
-- **Version Control**: GitHub - [Setup Instructions]() | [Tutorial]()
+- **Development Environment**: Eclipse IDE - [Setup Instructions](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/SETUP_and_WORKFLOW.md)
+- **Version Control**: GitHub - [Setup Instructions](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/SETUP_and_WORKFLOW.md) | [Tutorial](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 - **Prerequisites**: Basic understanding of English and Algebra, Functions, and Mathematical Reasoning
 
 ### Goals:
@@ -55,10 +55,10 @@ Progress will be tracked using these assignments and labs. To facilitate instruc
 
 ## [The AP Exam](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam?course=ap-computer-science-a)
 **NOTE**: While the exam determines your final grade, the course MUST include at least 20 hours of hands-on lab experiences. Details on these labs can be found in the class schedule/topic outline.
-- **DATE**:
-- **TIME**:
-- **DURATION**:
-- **LOCATION**:
+- **DATE**:       Friday, 17 May 2019
+- **TIME**:       12:00 - 15:00
+- **DURATION**:   3 Hours
+- **LOCATION**:   TBD
 
 Registration information will be available shortly.
 
@@ -75,75 +75,85 @@ Registration information will be available shortly.
 | 2 | Possibly qualified |
 | 1 | No recommendation |
 
-## [Resources]()
-- [Java Quick Reference](https://secure-media.collegeboard.org/digitalServices/pdf/ap/explore-ap/ap-computer-science-a-2014-java-quick-reference.pdf) - provided in your exam booklet
-- [AP Java Subset](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-a-java-subset.pdf) - not included in exam booklet, code in exam is consistent with this subset
-- [Javadocs](https://docs.oracle.com/javase/7/docs/api/overview-summary.html) - detailed useful specifications of the entire Java 7 API
+Depending on the university you are intending to apply to, **your exam score will determine if you are allowed to receive credits** for corresponding Computer Science courses (and possibly the grade as well).
+
+## [Resources](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Resources)
+- [Java Quick Reference](https://secure-media.collegeboard.org/digitalServices/pdf/ap/explore-ap/ap-computer-science-a-2014-java-quick-reference.pdf) - **IMPORTANT**, provided in your AP exam booklet
+- [AP Java Subset](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-a-java-subset.pdf) - not included in exam booklet but all code in the **AP exam is consistent with this subset**
+- [Javadocs](https://docs.oracle.com/javase/7/docs/api/overview-summary.html) - detailed useful **specifications of the entire Java 7 API**
+- [Free Online Java Programming Textbook](http://math.hws.edu/javanotes/) - great for beginners
+- [Popular Java book](https://www.amazon.com/Java-How-Program-8th-Edition/dp/0136053068) - just for your information, absolutely not necessary for this course
 
 ### Textbooks
-There is no required text for this course. However, most of the materials in this course will be based on these books:
-- [Barron's AP Computer Science A - 8th Edition](https://www.amazon.com/Barrons-Computer-Science-Bonus-Online-ebook/dp/B07C2C7HH1) - lots of questions, recommended for your own practice as well
-- [McGraw Hill 5 Steps to a 5 - AP Computer Science A (2017)](https://www.amazon.ca/Steps-AP-Computer-Science-2017/dp/0071845909) - great summary of concepts
+There is no required text that you will need to purchase for this course. However, most of the materials in this course will be based on these books:
+- [Barron's AP Computer Science A - 8th Edition](https://www.amazon.com/Barrons-Computer-Science-Bonus-Online-ebook/dp/B07C2C7HH1) - lots of questions and most of the assignment questions will come from this book, recommended for your own practice as well if you wish to purchase
+- [McGraw Hill 5 Steps to a 5 - AP Computer Science A (2017)](https://www.amazon.ca/Steps-AP-Computer-Science-2017/dp/0071845909) - great summary of concepts and most of the readings will be from this book
 
 I also may be incorporating anything I might have learned from the following Computer Science courses I have completed at UBC that I think may be relevant:
 - [CPSC 110](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=CPSC&course=110): Systematic Program Design
+- [CPSC 121](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=CPSC&course=121): Models of Computation
 - [CPSC 210](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=CPSC&course=210): Software Construction
 - [CPSC 221](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=CPSC&course=221): Basic Algorithms and Data Structures
 - [CPSC 310](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=CPSC&course=310): Introduction to Software Engineering
 
-I also have digital copies of the following books that may potentially be helpful with this course and I am willing to lend to students:
+I also have digital copies of the following (quite dated) books that may potentially be helpful with this course and I am willing to lend to students:
 - [O'Reilly Head First Object-Oriented Analysis & Design](http://shop.oreilly.com/product/9780596008673.do)
 - [O'Reilly Head First Software Development](http://shop.oreilly.com/product/9780596527358.do)
 - [O'Reilly Head First Java](http://shop.oreilly.com/product/9780596004651.do)
 - [Java: A Beginner's Guide (Third Edition) - Herbert Schildt](https://www.amazon.com/Java-Beginners-Guide-Third/dp/0072231890)
 
 ### Online Tutorials/Forums/Community Help
-- [StackOverflow](https://stackoverflow.com/) - 99% of the time you're Googling a CS-related question, you will be led here
+- [StackOverflow](https://stackoverflow.com/) - **Every developer uses this forum.** 99% of the time you're Googling a CS-related question, you will be led here.
 - [TutorialsPoint](https://www.tutorialspoint.com/java/index.htm) - simple explanations with great examples
 
 ### MOOCS/Videos
 Collection in progress :)
 
-## [Topic Outline]()
-1. [Object-Oriented Program Design]()
-2. [Program Implementation]()
-3. [Program Analysis]()
-4. [Standard Data Structures]()
-5. [Standard Operations and Algorithms]()
-6. [Computing in Context]()
+## [Topic Outline](https://github.com/alyeffy/AP-CS-A_2018-2019/issues)
+1. [Object-Oriented Program Design](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_1) - 4 Lessons
+2. [Program Implementation](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_2) - 5 Lessons
+3. [Program Analysis](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_3) - 5 Lessons
+4. [Standard Data Structures](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_4) - 5 Lessons
+5. [Standard Operations and Algorithms](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_5) - 5 Lessons
+6. [Computing in Context](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_6) - 1 Lesson
 
-## [Class Schedule](https://www.sd38.bc.ca/Documents/Calendar2018-2019.pdf)
+## [Tentative Class Schedule*](https://www.sd38.bc.ca/Documents/Calendar2018-2019.pdf)
 | TOPIC | WEEK | DATE | DETAILS | PREP | LECTURE SLIDES | ASSIGNMENT(S) | LAB |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 05/10/2018 | Intro to Java Syntax, Programming Basics, and Objects |  |  |  |  |  |
-|  | 2 | 12/10/2018 |  |  |  |  |  |
-|  | 3 | 19/10/2018 |  |  |  |  |  |
-|  | 4 | 26/10/2018 |  |  |  |  |  |
-|  | 5 | 02/11/2018 |  |  |  |  |  |
-|  | 6 | 09/11/2018 |  |  |  |  |  |
-|  | 7 | 16/11/2018 |  |  |  |  |  |
-|  | 8 | 23/11/2018 |  |  |  |  |  |
-|  | 9 | 30/11/2018 |  |  |  |  |  |
-|  | 10 | 07/12/2018 |  |  |  |  |  |
-|  | 11 | 14/12/2018 |  |  |  |  |  |
-|  | 12 | 21/12/2018 |  |  |  |  |  |
-|  | | 28/12/2018 | **WINTER BREAK** | | | | |
-|  | | 04/01/2019 | **WINTER BREAK** | | | | |
-|  | 13 | 11/01/2019 |  |  |  |  |  |
-|  | 14 | 18/01/2019 |  |  |  |  |  |
-|  | 15 | 25/01/2019 |  |  |  |  |  |
-|  | 16 | 01/02/2019 |  |  |  |  |  |
-|  | 17 | 08/02/2019 |  |  |  |  |  |
-|  | 18 | 15/02/2019 |  |  |  |  |  |
-|  | 19 | 22/02/2019 |  |  |  |  |  |
-|  | 20 | 01/03/2019 |  |  |  |  |  |
-|  | 21 | 08/03/2019 |  |  |  |  |  |
-|  | 22 | 15/03/2019 |  |  |  |  |  |
-|  | | 22/03/2019 | **SPRING BREAK** | | | | |
-|  | | 29/03/2019 | **SPRING BREAK** | | | | |
-|  | 23 | 05/04/2019 |  |  |  |  |  |
-|  | 24 | 12/04/2019 |  |  |  |  |  |
-|  | | 19/04/2019 | **GOOD FRIDAY** | | | | |
-|  | 25 | 26/04/2019 |  |  |  |  |  |
-| | 26 | 03/05/2019 | Review, Practice Exam, Solutions, and Q + A |  |  |  |  |
-| | | 10/05/2019 | **EXAM DAY** |  |  |  |  |
+| 1 | 1 | 05/10/2018 | Intro to the Java language, Object-Oriented Programs, and Basic Program Design Approaches |  |  |  |  |  |
+|  | | 08/10/2018 | **THANKSGIVING** | | | | |
+| 1 | 2 | 15/10/2018 |  |  |  |  |  |
+| 1 | 3 | 22/10/2018 |  |  |  |  |  |
+| 1 | 4 | 29/10/2018 |  |  |  |  |  |
+| 2 | 5 | 05/11/2018 |  |  |  |  |  |
+|  | | 12/11/2018 | **REMEMBRANCE DAY** | | | | |
+| 2 | 6 | 19/11/2018 |  |  |  |  |  |
+| 2 | 7 | 26/11/2018 |  |  |  |  |  |
+| 2 | 8 | 03/12/2018 |  |  |  |  |  |
+| 2 | 9 | 10/12/2018 |  |  |  |  |  |
+| 3 | 10 | 17/12/2018 |  |  |  |  |  |
+|  | | 24/12/2018 | **CHRISTMAS EVE** | | | | |
+|  | | 31/12/2018 | **NEW YEAR'S EVE** | | | | |
+| 3 | 11 | 07/01/2019 |  |  |  |  |  |
+| 3 | 12 | 14/01/2019 |  |  |  |  |  |
+| 3 | 13 | 21/01/2019 |  |  |  |  |  |
+| 3 | 14 | 28/01/2019 |  |  |  |  |  |
+| 4 | 15 | 04/02/2019 |  |  |  |  |  |
+| 4 | 16 | 11/02/2019 |  |  |  |  |  |
+|  | | 18/02/2019 | **FAMILY DAY** | | | | |
+| 4 | 17 | 25/02/2019 |  |  |  |  |  |
+| 4 | 18 | 04/03/2019 |  |  |  |  |  |
+| 4 | 19 | 11/03/2019 |  |  |  |  |  |
+|  | | 18/03/2019 | **SPRING BREAK** | | | | |
+|  | | 25/03/2019 | **SPRING BREAK** | | | | |
+| 5 | 20 | 01/04/2019 |  |  |  |  |  |
+| 5 | 21 | 08/04/2019 |  |  |  |  |  |
+| 5 | 22 | 15/04/2019 |  |  |  |  |  |
+|  | | 22/04/2019 | **EASTER MONDAY** | | | | |
+| 5 | 23 | 29/04/2019 |  |  |  |  |  |
+| 5 | 24 | 06/05/2019 |  |  |  |  |  |
+
+| 6 | 25 | 13/05/2019 |  |  |  |  |  |
+| | | 17/05/2019 | **EXAM DAY** |  |  |  |  |
+
+**subject to change**

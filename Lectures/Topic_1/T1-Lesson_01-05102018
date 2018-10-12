@@ -1,0 +1,229 @@
+#LESSON 01 - TOPIC 1: Intro to the Java Language, Object-Oriented Programs, and Basic Program Design Approaches
+
+Accompanying code files:
+- [Pokemon.java]()
+- [Pokeball.java]()
+- [Trainer.java]()
+- [Node.java]()
+- [Path.java]()
+
+Jump to [Homework](#homework)
+
+### Objects - What are they?
+- An object is a **thing** - it usually has a purpose, can be created, destroyed, and manipulated.
+- It can have attributes or a **state** and a set of **operations**/actions/behaviours that it can do or be done to it.
+- In Object-Oriented Programming (**OOP**), the programs we write also create/destroy/manipulate different virtual "objects", represented in code, that have state, operations, and can interact with each other.
+- Programming languages like **Java**, Ruby, Python, and C++ are examples of popular object-oriented languages.
+
+### Example: Representing [Pokemon](https://en.wikipedia.org/wiki/Gameplay_of_Pok%C3%A9mon) as an object
+| **STATES** | **OPERATIONS** |
+| --- | --- |
+| **level** - good indicator of the Pokemon’s maturity, overall stats etc. | **survive** - things it can do by itself e.g. eat, rest, swim, fly, dig etc.
+| **types** - indicates Pokemon’s habitat, strengths, weaknesses, what they can and can’t do etc.| **what trainers can do** - catch them, release them, trade them etc. |
+| **moveset** - what moves does this Pokemon have? E.g. hydro pump, fire blast, fly, solar beam, body slam | **what the Pokemon can do** - fight other Pokemon, flee from a trainer |
+| **canEvolve** - has the Pokemon evolved? Can it evolve? How many times? | **breed** - breed with other Pokemon |
+| **interactions** - other Pokemon, other trainers | |
+
+### In-Class Exercise: Represent Pokeball and Trainer as objects using the following guide:
+| **STATES** | **OPERATIONS** |
+| --- | --- |
+| Information about the object | Tasks involving this object |
+| Parts it is composed of | What can you do to this object (e.g. move it, open it, close it) |
+| Attributes of this object that make it unique (e.g. shape, colour, size, material) | What you can ask this object to do (e.g. say your name, stop moving) |
+| State of object between operations (e.g. open/closed, running/stationary) | Special operations to construct/delete objects |
+| Other objects it interacts with | |
+
+### What about Classes?
+- a **class** is a virtual framework for creating **objects** of a given **type**.
+- Objects are created using **constructors** in the class, so an object is an **instance** of the class and is **instantiated** using a constructor.
+- The **state** of an object is represented using **data fields** or instance variables of specific **types**. A **static variable** contains a value that is shared by ALL instances of the class (used for e.g. to accumulate a total, keep track of stats for the class, and provide a new ID number for each new object of the class), and a **static final variable** cannot be changed.
+- The “**actions**” an object can perform are **methods** or procedures/functions. A constructor is a special type of method that specifically for **creating** objects.
+- Some methods need specific **values** or information in order to proceed, and these values are called **parameters** or arguments.
+- Enclosing an object’s data and methods into a single class is called **encapsulation**.
+- Classes, data fields, and methods all have a **level of visibility** or access, determined by declaring them **public** (accessible by ALL client programs) or **private** (accessible WITHIN the class only).
+
+Example Java code for representing the [Pokemon](), [Pokeball](), and [Trainer]() classes.
+
+### Data Fields
+- **variables** of a specific type representing the **attributes** of the object
+- when declaring them, they have the format: `<visibility> <type> <name>`
+```java
+public class Pokemon {
+  public int level;
+  public String[] types;
+  public String[] moveset;
+  public Boolean canEvolve;
+}
+```
+- NOTE on **naming conventions**: when naming a new class, its name must always be capitalized
+- choosing helpful informative names is important for fields, parameters, methods and any other variables as well e.g. `canEvolve` is a **Boolean** (i.e. can only have the value **true** or **false** and nothing else), so its name is in a way asking the question "can it evolve?", telling you right away that it should be a **Boolean** type - this will come in handy when you declare anything later on that uses the `canEvolve` field
+- if the name of the field/parameter/method/variable consists of more than one word, it should be in **camel-case** e.g. `hasChildren`, `totalNodesVisited`, otherwise it should be all in lowercase
+
+### Parameters
+- the required **type** of each parameter must be indicated in the method
+- **formal parameter**: variable that receives the value inside a method
+- **actual parameter**: ACTUAL value that is passed into the method
+- if the formal and actual parameters have variables of the same name, the formal parameter will be differentiated using the `this` keyword e.g. `this.parameter_name` (see next Java example)
+
+### Constructors
+- Constructor names are always the same as the name of the class, and have no **return type** (more on this later)
+- **default constructor**: has no arguments needed for instantiation - format: `<visibility> <Name>() {/* implementation code */}`
+- **parameterized constructor**: requires arguments for instantiation - format: `<visibility> <Name>(type parameter1, type parameter2) {/* implementation code */}`
+
+```java
+// Default constructor
+// Constructs Pokemon with default values
+public Pokemon() {
+  level = 5;
+  types[0] = "Normal";
+  moveset[0] = "Tackle";
+  canEvolve = false;
+}
+
+// Parameterized constructor
+// Constructs Pokemon with specified inputs and their types
+public Pokemon(int level, String[] types, String[] moveset, Boolean canEvolve) {
+  this.level = level;
+  this.types = types;
+  this.moveset = moveset;
+  this.canEvolve = canEvolve;
+}
+```
+- when creating an instance of a class, the you are creating a **new** object that will take up some memory
+- in order to locate where in the memory this new object is located, we need its **memory address**, so we can easily access the object when needed
+- in the Java example below, the operator **new** returns the address of the newly constructed Pokemon object, and the object variable **milotic** is assigned this address value (i.e. is a **reference** to the object)
+```java
+Pokemon milotic = new Pokemon();
+```
+
+### Methods
+- **accessor**: also called a "**getter**" because they are often named "**get<Something>**", a method that **retrieves** information from a class object WITHOUT changing the state of the object i.e. have a **return value** - format: `<visibility> <return type> <name>(<parameters and their types if any>) {/* implementation code */}`
+- **mutator**: also called a "**setter**" because they are often named "**set<Something>**", a method that **changes** the information of a class object by modifying at least one of its **fields**, WITHOUT returning a value - format: `<visibility> void <name>(<parameters and their types if any> {/* implementation code */})` i.e. its return type is **void** since it doesn't return anything
+- **instance method**: method that performs an operation on **one** instance object - format: `<visibility> <return type> <name>(<parameters and their types if any>) {/* implementation code */}`
+- **static method**: method that performs an operation on the entire **class** - format: `<visibility> static <return type> <name>(<parameters and their types if any>) {/* implementation code */}`
+```java
+// accessor and instance method
+/**
+ *  @return the level of the Pokemon. - with this, Eclipse checks that what is returned in your implementation code corresponds with the type you indicated
+ */
+public int getLevel() {
+  /* implementation code */
+  return 0; /* This line is not the correct implementation code, but Eclipse will see it as an error because 0 is an integer*/
+}
+
+// mutator and instance method
+/**
+ *  Adds given move to the Pokemon's moveset if the Pokemon can learn it
+ *  @param type is the type of the move to be learned - with this, Eclipse ensures that your method has this parameter
+ *  @param move is the name of move to be learned - with this, Eclipse ensures that your method has this parameter
+ */
+public void learnMove(String type, String move) {
+  /* implementation code */
+}
+```
+- when you are **calling** or **invoking** a method on an object, you are using a method with an object
+- to do this, you need the dot operator (`.`), as seen below
+```java
+milotic.getLevel() // this calls getLevel() on the Pokemon object named milotic, which should return its level
+```
+- since instance methods are always called on a specific object, that object is an **implicit parameter** for the method and is referred to with the **this** keyword (as seen in the parameterized constructor example above)
+- static methods are called on a class since they affect all objects in the class e.g. `Pokemon.staticMethod()`
+
+- **overloaded methods**: two or more methods in the **same class** with the **same name** but **different parameters**. In situations like this, the **compiler**(more on this later) will determine which is the right method to use based on what parameters were passed to it e.g. with the constructor example above, the default one will be used when there are no parameters, but the parameterized one is used when there are
+
+### Scopes
+- methods and variables have scopes - the **region** in which they are visible and can be **accessed**
+- e.g. the of instance variables, static variables, and methods of a class belongs to the class' scope, and can be referred by name without using the class name and dot operator, unlike if other classes wanted to use them
+- a **local variable** is defined inside a method and its scope only exists with the method
+
+### If there are constructors, why are there no "destroyers"?
+- A convenient and useful feature of Java is its **garbage collection** - it manages memory on its own by automatically reclaiming memory for objects that are no longer used.
+- Some languages, like C, require programmers to explicitly code when to allocate memory for something e.g. an object, and how much memory needs to be allocated for it, and when to deallocate the memory when that object is no longer needed.
+- If the programmer is not careful, they can accidentally create **memory leaks**, where they allocated memory for something but did not deallocate it when not needed later on, resulting in that memory being "wasted" by being taken up by something unnecessary. Memory leaks can cause performance problems in the computer if they accumulate.
+- Why don't all languages have garbage collection then? Garbage collection slows down the performance of the program. Programs coded in C usually have greater performance than those coded in Java. Generally, for any programming language you are using, the more things it does for you automatically (e.g. R does type checking automatically so you rarely have to specify types for variables), the slower it will be (R is very slow compared to C).
+- Different languages are suited for different functions so choosing the right language is an important thing to consider when you are trying to create a program/website/application/script etc.
+
+### Compilers
+- Java, C, R etc. are examples of **high-level** languages - languages that humans can generally understand a lot easier compared to machine language
+- Machine language is a lot less readable, but is the common language shared across different operating systems
+- The **compiler** translates code written in high-level languages to machine language that the computer actually understands
+- Many IDEs like Eclipse and other text editors have compilers that check that the **syntax** of your code is in the correct format, and will not run the program if there are any syntactical errors
+
+### Designing Programs - How do we approach them systematically?
+- Before we start designing any programs or even methods in this course, it is important to know how to approach them properly rather than start writing code right away - this will prevent you writing lots of code and then realizing you misunderstood the problem and having to start all over again
+- We will go into more detail into this in future classes, but for now, the general approach you should use to tackle these problems should follow this "recipe":
+
+1. **Understand** the **purpose** and **context** of the problem. What are its **specifications**? **What** is it supposed to **do**? This seems simple but it is a seriously underrated and often overlooked step when starting out programming for the first time. Always **summarize the purpose** of any method you define in a short **comment** right above the method declaration (as seen in the code example above).
+2. Consider the **input** and **output** types? What are its **requirements** or the problem **domain**? The **method signature** i.e. the first line of the method (`<visibility> <return type> <name>(<parameters and their types)`) should indicate this
+3. If possible, **break** the program/method into **simpler steps**, as simple as possible. Write out each step like a list of instructions, or use a flow chart (e.g. [Control Flow Diagrams](https://en.wikipedia.org/wiki/Control_flow_diagram); we may cover this later). What is the easiest solution to the problem that is easiest to come up with? Think of that first and **worry about optimization later**. Are there any steps that are repetitive? Could you use a **loop** or **recursion** for those parts (more on this later)?
+4. Search your **available tools**. Java has lots of great **packages** that you can **import** to help you with implementing. If these tools have existing packages created for them, chances are, they are the best, most optimized option to use, and will save you a lot of time to use them rather than reinventing the wheel. In addition, are there any known **algorithms** that you can use or specific **data structures** you can use or define that will help with the problem?
+5. **Start coding**. Notice that this is the last, final step you should do, and that there are 4 other important steps before that often take more time than actually writing the code. This is very frequently the case when designing big programs, as it is important to invest a lot of time and effort in the beginning to ensure you start off on the right foot.
+
+- As you are going through this course, you should refer to these 5 steps when you are trying to design any program, or figure out what a program is trying to do. Let's put this in practice below:
+
+### Example: Applying the Design Recipe
+Imagine you have the map shown below, with different Nodes **A-G**, and specific **Paths** leading from one Node to another. The Paths have different **weights**/numbers indicating the distance of the path and **directions**. Using the recipe above, design a program that finds the shortest Path from one Node to another.
+
+![map](https://www.cs.bham.ac.uk/~mdr/teaching/modules04/java2/Dijkstra.gif)
+
+1. Shortest Path means the **series of Paths** you need to take to get from the starting Node to the ending Node. The **sum of the weights** of the Paths in this series you need should be as **small as possible**.
+2. You are given the map above, consisting of **Nodes** and **Paths**. We should define the **data structures** of the Nodes and Paths in terms of **objects**. e.g. we could start with this:
+```java
+public class Node {
+  public String id; // the name or label of the node
+  public Path[] paths; // list of paths leading to or from it
+
+  public Node(String id, Path[] paths) {
+    this.id = id;
+    this.path = paths;
+  }
+}
+
+public class Path {
+  public String next;      // name of the node that this path leads into
+  public String previous;  // name of the node that this path leads from
+  public int weight;       // numeric distance of the path
+
+  public Path(String next, String previous, int weight) {
+    this.next = next;
+    this.previous = previous;
+    this.weight = weight;
+  }
+}
+```
+Based on the above class definitions and the given map, we could instantiate some of the objects like this:
+```java
+Path AB = new Path("B", "A", 14);
+Path AE = new Path("E", "A", 4);
+Path AD = new Path("D", "A", 22);
+
+Node A = new Node("A", [AB, AE, AD]);
+```
+So the method signature for this program could be something like:
+```java
+public Path[] findShortestPath(Node start, Node end) {
+  /* implementation code */
+}
+```
+3. Let's use the list of instructions:
+- 1: Given the **start** Node, get the Paths leading **from** it
+- 2: Starting with the Path with the **smallest weight**, **store** this weight (since we need to sum the weights of all the paths to the ending Node to **compare** and find the smallest; let's call this variable **weightSum**) and get the **next** Node of that Path.
+- 3: **IF** the **id** of **THIS Node** is the **same** as the **id** of the **end** Node, **store** the **list of Paths collected so far**, and the **sum of the weights for this list**. Notice here that we've now established the need for a **local variable** of the type **Path[]** to keep track of all the paths we have so far (let's call it **pathsSoFar**).
+- 4: We need to return **pathsSoFar** at the end IF it meets the condition of having the **smallest total weight**. Since this would be the first list of paths we found leading to the end Node, it is the **smallest for now**, but it might not be once we explore other paths, so store that in a local variable **shortestPath** and and the weight total in another variable **smallestWeight**.
+- 5: THEREFORE, we know that we should **repeat** this with every possible path from the start to the end, also storing the **pathsSoFar** and **weightSum** for each, and ONLY replacing **shortestPath** with the current **pathsSoFar** IF the current **weightSum** is smaller than the existing  **smallestWeight**.
+- 6: Once we've looked at ALL possible paths from start to end, we know that the current value of **shortestPath** is the result we should be **returning**. We also know that this should **terminate** the program since we are returning something (that should be the **correct result**), which will **exit** the method (code in this method will stop running at that point).
+4. So now that we have these basic steps, we can research tools that can help us with this. An example in this case would be [Djikstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
+5. FINALLY, we get to start implementing.
+
+So we just saw how we can apply the basic design recipe to solve a fairly complex programming problem (which you are NOT expected to know for the exam). **NOTE**: this was just an example of how I applied the design recipe, and might not be correct (I have not tried implementing it), and there might be more than one way to do it ([here](https://www.baeldung.com/java-dijkstra) is an example). This recipe is just as helpful with simpler problems, so **please refer to it throughout the course**. When you are using this recipe, it's okay to keep going back to previous steps if you realize you missed things over the way. It's better to keep looking at this iteratively until you find the right answer.
+
+- [Node.java]() class file
+- [Path.java]() class file
+
+###HOMEWORK:
+- if you did the **Pokeball** class definition on paper in class, do the **Trainer** class definition on paper and place it in my pigeonhole before the next class
+- if you did the **Trainer** class definition on paper in class, do the **Pokeball** class definition on paper and place it in my pigeonhole before the next class
+- make sure you label all the constructors, methods, variables accordingly (see `Pokemon.java` as an example)
+- for the `Node.java` and `Path.java` classes, label the types of constructors, methods, variables etc. using the same style as the `Pokemon.java class`
+- follow the instructions in the [SETUP_and_WORKFLOW.md]() file to set up the development environment and workflow needed for the course. If you encounter any problems, make sure to comment on the [topic issue]().
+- on the [topic issue](), state your **name**, your **grade level**, and **something you would like to learn how to program** (e.g. a game, a website etc.) (Follow my example comment in the issue).
