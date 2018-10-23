@@ -124,9 +124,9 @@ Collection in progress :)
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 1 | 05/10/2018 | Intro to the Java language, Object-Oriented Programs, and Basic Program Design Approaches | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T101-05102018.md) | :white_check_mark: | :x: |
 |  | | 08/10/2018 | **THANKSGIVING** | | | | |
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 2 | 16/10/2018 | Elementary Java Syntax and Bit Conversion | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T102-16102018.md) | :white_check_mark: | :x: |
-| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 3 | 23/10/2018 | Inheritance, Polymorphism, and Interfaces | :x: |  |  |  |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 3 | 23/10/2018 | Inheritance, Polymorphism, and Interfaces | :x: |  |  | :white_check_mark: |
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 4 | 30/10/2018 |  |  |  |  |  |
-| 2 | 5 | 06/11/2018 |  | :white_check_mark: |  |  |  |
+| 2 | 5 | 06/11/2018 |  |  |  |  |  |
 | 2 | 6 | 13/11/2018 |  |  |  |  |  |
 | 2 | 7 | 20/11/2018 |  |  |  |  |  |
 | 2 | 8 | 27/11/2018 |  |  |  |  |  |
