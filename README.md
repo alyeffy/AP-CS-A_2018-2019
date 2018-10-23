@@ -9,14 +9,14 @@ For **most recent updates and announcements**, please see the [issues](https://g
 - [The AP Exam](#the-ap-exam)
 - [Resources](#resources)
 - [Topic Outline](#topic-outline)
-- [Class Schedule](#class-schedule)
+- [Class Schedule (tentative)](#tentative-class-schedule)
 
 ## [Course Overview](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-overview.pdf?course=ap-computer-science-a)
 ### Administrative Information
 - **Instructor**: [Alyssa Fegen](http://www.alyssafegen.com), BSc. Combined Major - Computer Science & Microbiology
 - **Contact**: [Email](mailto:alyssafegen@alumni.ubc.ca)
 - **Location**: [Elite Educational Institute](http://www.eliteprep.ca/?lang=en) - Richmond Campus (5560-8181 Cambie Rd, Richmond, BC V6X 3X9)
-- **Class Time**: Mondays, 15:30 - 17:30 (**2 hours a week**, **25 Classes Total** i.e. **50 hours of in-class instruction time**)
+- **Class Time**: Tuesdays, 15:45 - 17:45 (**2 hours a week**, **25 Classes Total** i.e. **50 hours of in-class instruction time**)
 ### Teaching Style
 Classes are modeled after university-style CS courses and will vary, but generally have one or a mix of the following structures:
 - **Lecture and class discussion** on new concepts and syntax from the current topic
@@ -83,6 +83,7 @@ Depending on the university you are intending to apply to, **your exam score wil
 - [Javadocs](https://docs.oracle.com/javase/7/docs/api/overview-summary.html) - detailed useful **specifications of the entire Java 7 API**
 - [Free Online Java Programming Textbook](http://math.hws.edu/javanotes/) - great for beginners
 - [Popular Java book](https://www.amazon.com/Java-How-Program-8th-Edition/dp/0136053068) - just for your information, absolutely not necessary for this course
+- [AP Computer Science Study Guide](https://ap-computer-science-guide.github.io/) - good summary but also contains extra information not in the AP subset
 
 ### Textbooks
 There is **no required text that you will need to purchase** for this course. However, most of the materials in this course will be based on these books, which have great **summaries of the concepts**, and **lots of practice questions and exams**, so they are **recommended** for your own self-study if you wish:
@@ -120,39 +121,39 @@ Collection in progress :)
 ## [Tentative Class Schedule](https://www.sd38.bc.ca/Documents/Calendar2018-2019.pdf)
 | TOPIC | WEEK | DATE | DETAILS | PREP | LECTURE NOTES | ASSIGNMENT(S) | LAB |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 1 | 05/10/2018 | Intro to the Java language, Object-Oriented Programs, and Basic Program Design Approaches | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T1-Lesson_01-05102018.md) | :white_check_mark: | :x: |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 1 | 05/10/2018 | Intro to the Java language, Object-Oriented Programs, and Basic Program Design Approaches | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T101-05102018.md) | :white_check_mark: | :x: |
 |  | | 08/10/2018 | **THANKSGIVING** | | | | |
-| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 2 | 15/10/2018 |  |  |  |  |  |
-| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 3 | 22/10/2018 |  |  |  |  |  |
-| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 4 | 29/10/2018 |  |  |  |  |  |
-| 2 | 5 | 05/11/2018 |  |  |  |  |  |
-|  | | 12/11/2018 | **REMEMBRANCE DAY** | | | | |
-| 2 | 6 | 19/11/2018 |  |  |  |  |  |
-| 2 | 7 | 26/11/2018 |  |  |  |  |  |
-| 2 | 8 | 03/12/2018 |  |  |  |  |  |
-| 2 | 9 | 10/12/2018 |  |  |  |  |  |
-| 3 | 10 | 17/12/2018 |  |  |  |  |  |
-|  | | 24/12/2018 | **CHRISTMAS EVE** | | | | |
-|  | | 31/12/2018 | **NEW YEAR'S EVE** | | | | |
-| 3 | 11 | 07/01/2019 |  |  |  |  |  |
-| 3 | 12 | 14/01/2019 |  |  |  |  |  |
-| 3 | 13 | 21/01/2019 |  |  |  |  |  |
-| 3 | 14 | 28/01/2019 |  |  |  |  |  |
-| 4 | 15 | 04/02/2019 |  |  |  |  |  |
-| 4 | 16 | 11/02/2019 |  |  |  |  |  |
-|  | | 18/02/2019 | **FAMILY DAY** | | | | |
-| 4 | 17 | 25/02/2019 |  |  |  |  |  |
-| 4 | 18 | 04/03/2019 |  |  |  |  |  |
-| 4 | 19 | 11/03/2019 |  |  |  |  |  |
-|  | | 18/03/2019 | **SPRING BREAK** | | | | |
-|  | | 25/03/2019 | **SPRING BREAK** | | | | |
-| 5 | 20 | 01/04/2019 |  |  |  |  |  |
-| 5 | 21 | 08/04/2019 |  |  |  |  |  |
-| 5 | 22 | 15/04/2019 |  |  |  |  |  |
-|  | | 22/04/2019 | **EASTER MONDAY** | | | | |
-| 5 | 23 | 29/04/2019 |  |  |  |  |  |
-| 5 | 24 | 06/05/2019 |  |  |  |  |  |
-| 6 | 25 | 13/05/2019 |  |  |  |  |  |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 2 | 16/10/2018 | Elementary Java Syntax and Bit Conversion | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T102-16102018.md) | :white_check_mark: | :x: |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 3 | 23/10/2018 | Inheritance, Polymorphism, and Interfaces | :x: |  |  |  |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 4 | 30/10/2018 |  |  |  |  |  |
+| 2 | 5 | 06/11/2018 |  | :white_check_mark: |  |  |  |
+| 2 | 6 | 13/11/2018 |  |  |  |  |  |
+| 2 | 7 | 20/11/2018 |  |  |  |  |  |
+| 2 | 8 | 27/11/2018 |  |  |  |  |  |
+| 2 | 9 | 04/12/2018 |  |  |  |  |  |
+| 3 | 10 | 11/12/2018 |  |  |  |  |  |
+| 3 | 11 | 18/12/2019 |  |  |  |  |  |
+|  | | 25/12/2018 | **CHRISTMAS DAY** | | | | |
+|  | | 01/01/2019 | **NEW YEAR'S DAY** | | | | |
+| 3 | 12 | 08/01/2019 |  |  |  |  |  |
+| 3 | 13 | 15/01/2019 |  |  |  |  |  |
+| 3 | 14 | 22/01/2019 |  |  |  |  |  |
+| 4 | 15 | 29/01/2019 |  |  |  |  |  |
+| 4 | 16 | 05/02/2019 |  |  |  |  |  |
+| 4 | 17 | 12/02/2019 |  |  |  |  |  |
+| 4 | 18 | 19/02/2019 |  |  |  |  |  |
+| 4 | 19 | 26/02/2019 |  |  |  |  |  |
+| 5 | 20 | 05/03/2019 |  |  |  |  |  |
+| 5 | 21 | 12/03/2019 |  |  |  |  |  |
+|  | | 19/03/2019 | **SPRING BREAK** | | | | |
+|  | | 26/03/2019 | **SPRING BREAK** | | | | |
+| 5 | 22 | 02/04/2019 |  |  |  |  |  |
+| 5 | 23 | 09/04/2019 |  |  |  |  |  |
+| 5 | 24 | 16/04/2019 |  |  |  |  |  |
+| 6 | 25 | 23/04/2019 | Computing Context: Ethics & Society, and the Software Development Life Cycle (SLDC) |  |  |  |  |
+| | 26 | 30/04/2019 |  |  |  |  |  |
+| | 27 | 07/05/2019 |  |  |  |  |  |
+| | 28 | 14/05/2019 | Review Session, Q+A, and Mock Exam |  |  |  |  |
 | | | 17/05/2019 | **EXAM DAY** |  |  |  |  |
 
 **subject to change**
