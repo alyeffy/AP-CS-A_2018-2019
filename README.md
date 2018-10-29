@@ -123,7 +123,7 @@ Collection in progress :)
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 1 | 05/10/2018 | Intro to the Java language, Object-Oriented Programs, and Basic Program Design Approaches | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T101-05102018.md) | :white_check_mark: | :x: |
 |  | | 08/10/2018 | **THANKSGIVING** | | | | |
-| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 2 | 16/10/2018 | Elementary Java Syntax and Bit Conversion | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T102-16102018.md) | :white_check_mark: | :x: |
+| [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 2 | 16/10/2018 | Elementary Java Syntax and Bit Conversion | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T102-16102018.md) | :x: | :x: |
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 3 | 23/10/2018 | Inheritance and Polymorphism | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T103-23102018.md) | :white_check_mark: | :white_check_mark: |
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 4 | 30/10/2018 | Interfaces, Abstract + Object Classes, and UML Diagrams | :white_check_mark: |  | :white_check_mark: | :white_check_mark: |
 | 2 | 5 | 06/11/2018 |  |  |  |  |  |
