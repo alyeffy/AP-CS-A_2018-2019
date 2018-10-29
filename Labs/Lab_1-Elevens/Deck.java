@@ -43,17 +43,11 @@ public class Deck {
   * Determines if this deck is empty (no undealt cards).
   * @return true if this deck is empty, false otherwise.
   */
-  public boolean isEmpty() {
-    return false;
-  }
 
   /** TODO: Complete the implementation code for this accessor method.
   * Accesses the number of undealt cards in this deck.
   * @return the number of undealt cards in this deck.
   */
-  public int size() {
-    return this.cards.size();
-  }
 
   /**
   * Randomly permute the given collection of cards
@@ -67,13 +61,6 @@ public class Deck {
   * Deals a card from this deck.
   * @return the Card just dealt, or null if all the cards have been previously dealt.
   */
-  public Card deal() {
-    this.size = this.size - 1;
-    if (this.size > 0) {
-      return this.cards.get(this.size);
-    }
-    return null;
-  }
 
   /**
   * Generates and returns a string representation of this deck.
