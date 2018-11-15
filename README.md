@@ -126,11 +126,11 @@ Collection in progress :)
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 2 | 16/10/2018 | Elementary Java Syntax and Bit Conversion | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T102-16102018.md) | :x: | :x: |
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 3 | 23/10/2018 | Inheritance and Polymorphism | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T103-23102018.md) | :white_check_mark: | :white_check_mark: |
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 4 | 30/10/2018 | Abstract Classes, Interfaces, and UML Diagrams | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T104-30102018.md) | :white_check_mark: | :white_check_mark: |
-| 2 | 5 | 06/11/2018 | Memory Allocation, Operators, and Boolean Expression Evaluation | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T205-06112018.md) | :white_check_mark: | :x: |
-| 2 | 6 | 13/11/2018 |  | :white_check_mark: |  |  |  |
-| 2 | 7 | 20/11/2018 |  |  |  |  |  |
-| 2 | 8 | 27/11/2018 |  |  |  |  |  |
-| 2 | 9 | 04/12/2018 |  |  |  |  |  |
+| [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 5 | 06/11/2018 | Memory Allocation, Operators, and Boolean Expression Evaluation | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T205-06112018.md) | :white_check_mark: | :x: |
+| [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 6 | 13/11/2018 | Control Flow, Scopes, and Iteration | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T206-13112018.md) | :white_check_mark: | :x: |
+| [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 7 | 20/11/2018 |  |  |  |  |  |
+| [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 8 | 27/11/2018 |  |  |  |  |  |
+| [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 9 | 04/12/2018 |  |  |  |  |  |
 | 3 | 10 | 11/12/2018 |  |  |  |  |  |
 | 3 | 11 | 18/12/2019 |  |  |  |  |  |
 |  | | 25/12/2018 | **CHRISTMAS DAY** | | | | |
