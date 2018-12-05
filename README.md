@@ -112,7 +112,7 @@ Collection in progress :)
 
 ## [Topic Outline](https://github.com/alyeffy/AP-CS-A_2018-2019/issues)
 1. [Object-Oriented Program Design](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_1) - 4 Lessons
-2. [Program Implementation](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_2) - 5 Lessons
+2. [Program Implementation](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_2) - 3 Lessons
 3. [Program Analysis](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_3) - 5 Lessons
 4. [Standard Data Structures](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_4) - 5 Lessons
 5. [Standard Operations and Algorithms](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Lectures/Topic_5) - 5 Lessons
@@ -128,9 +128,9 @@ Collection in progress :)
 | [1](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/1) | 4 | 30/10/2018 | Abstract Classes, Interfaces, and UML Diagrams | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_1/T104-30102018.md) | :white_check_mark: | :white_check_mark: |
 | [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 5 | 06/11/2018 | Memory Allocation, Operators, and Boolean Expression Evaluation | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T205-06112018.md) | :white_check_mark: | :x: |
 | [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 6 | 13/11/2018 | Control Flow, Scopes, and Iteration | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T206-13112018.md) | :white_check_mark: | :x: |
-| [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 7 | 20/11/2018 | CANCELLED | :white_check_mark: | :x: | :white_check_mark: | :x: |
+| | 7 | 20/11/2018 | CANCELLED | :white_check_mark: | :x: | :white_check_mark: | :x: |
 | [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 8 | 27/11/2018 | Recursion, Implementation Techniques, and I/O | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T203-27112018.md) | :white_check_mark: | :x: |
-| [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 9 | 04/12/2018 |  | :x: |  | TBD | :x: |
+| [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 9 | 04/12/2018 | Software Development Life Cycle (SLDC) | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T309-04122018.md) | :white_check_mark: | :x: |
 | 3 | 10 | 11/12/2018 |  |  |  |  |  |
 | 3 | 11 | 18/12/2019 |  |  |  |  |  |
 |  | | 25/12/2018 | **CHRISTMAS DAY** | | | | |
