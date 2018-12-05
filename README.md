@@ -130,7 +130,7 @@ Collection in progress :)
 | [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 6 | 13/11/2018 | Control Flow, Scopes, and Iteration | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T206-13112018.md) | :white_check_mark: | :x: |
 | | 7 | 20/11/2018 | CANCELLED | :white_check_mark: | :x: | :white_check_mark: | :x: |
 | [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 8 | 27/11/2018 | Recursion, Implementation Techniques, and I/O | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T208-27112018.md) | :white_check_mark: | :x: |
-| [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 9 | 04/12/2018 | Software Development Life Cycle (SLDC) | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T309-04122018.md) | :white_check_mark: | :x: |
+| [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 9 | 04/12/2018 | Software Development Life Cycle (SDLC) | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T309-04122018.md) | :white_check_mark: | :x: |
 | 3 | 10 | 11/12/2018 |  |  |  |  |  |
 | 3 | 11 | 18/12/2019 |  |  |  |  |  |
 |  | | 25/12/2018 | **CHRISTMAS DAY** | | | | |
