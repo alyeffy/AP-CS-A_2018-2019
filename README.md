@@ -136,9 +136,9 @@ Collection in progress :)
 |  | | 25/12/2018 | **CHRISTMAS DAY** | | | | |
 |  | | 01/01/2019 | **NEW YEAR'S DAY** | | | | |
 |  | 12 | 08/01/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
-| [4]() | 13 | 14/01/2019 | Strings, Lists, and Arrays | :x: |  |  |  |
-|  | 14 | 21/01/2019 |  |  |  |  |  |
-|  | 15 | 28/01/2019 |  |  |  |  |  |
+| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 13 | 14/01/2019 | Strings, Lists, and Arrays | :x: |  |  |  |
+| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 14 | 21/01/2019 |  |  |  |  |  |
+| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 15 | 28/01/2019 |  |  |  |  |  |
 |  | 16 | 04/02/2019 |  |  |  |  |  |
 |  | 17 | 11/02/2019 |  |  |  |  |  |
 |  | 19 | 18/02/2019 | **FAMILY DAY** |  |  |  |  |
