@@ -16,7 +16,7 @@ For **most recent updates and announcements**, please see the [issues](https://g
 - **Instructor**: [Alyssa Fegen](http://www.alyssafegen.com), BSc. Combined Major - Computer Science & Microbiology
 - **Contact**: [Email](mailto:alyssafegen@alumni.ubc.ca)
 - **Location**: [Elite Educational Institute](http://www.eliteprep.ca/?lang=en) - Richmond Campus (5560-8181 Cambie Rd, Richmond, BC V6X 3X9)
-- **Class Time**: Tuesdays, 15:45 - 17:45 (**2 hours a week**, **25 Classes Total** i.e. **50 hours of in-class instruction time**)
+- **Class Time**: Mondays, 16:15 - 18:15 (**2 hours a week**, **25 Classes Total** i.e. **50 hours of in-class instruction time**)
 ### Teaching Style
 Classes are modeled after university-style CS courses and will vary, but generally have one or a mix of the following structures:
 - **Lecture and class discussion** on new concepts and syntax from the current topic
@@ -132,28 +132,28 @@ Collection in progress :)
 | [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 8 | 27/11/2018 | Recursion, Implementation Techniques, and I/O | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T208-27112018.md) | :white_check_mark: | :x: |
 | [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 9 | 04/12/2018 | Software Development Life Cycle (SDLC) | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T309-04122018.md) | :white_check_mark: | :x: |
 | [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 10 | 11/12/2018 | Program Correctness and Testing | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T310-11122018.md) | :white_check_mark: | :white_check_mark: |
-| [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 11 | 18/12/2019 | Algorithm Efficiency | :white_check_mark: |  | :white_check_mark: | :white_check_mark: |
+| [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 11 | 18/12/2019 | Algorithm Efficiency | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T310-18122018.md) | :white_check_mark: | :white_check_mark: |
 |  | | 25/12/2018 | **CHRISTMAS DAY** | | | | |
 |  | | 01/01/2019 | **NEW YEAR'S DAY** | | | | |
-| 3 | 12 | 08/01/2019 |  |  |  |  |  |
-| 3 | 13 | 15/01/2019 |  |  |  |  |  |
-| 3 | 14 | 22/01/2019 |  |  |  |  |  |
-| 4 | 15 | 29/01/2019 |  |  |  |  |  |
-| 4 | 16 | 05/02/2019 |  |  |  |  |  |
-| 4 | 17 | 12/02/2019 |  |  |  |  |  |
-| 4 | 18 | 19/02/2019 |  |  |  |  |  |
-| 4 | 19 | 26/02/2019 |  |  |  |  |  |
-| 5 | 20 | 05/03/2019 |  |  |  |  |  |
-| 5 | 21 | 12/03/2019 |  |  |  |  |  |
-|  | | 19/03/2019 | **SPRING BREAK** | | | | |
-|  | | 26/03/2019 | **SPRING BREAK** | | | | |
-| 5 | 22 | 02/04/2019 |  |  |  |  |  |
-| 5 | 23 | 09/04/2019 |  |  |  |  |  |
-| 5 | 24 | 16/04/2019 |  |  |  |  |  |
-| 6 | 25 | 23/04/2019 |  |  |  |  |  |
-| | 26 | 30/04/2019 |  |  |  |  |  |
-| | 27 | 07/05/2019 |  |  |  |  |  |
-| | 28 | 14/05/2019 | Review Session, Q+A, and Mock Exam |  |  |  |  |
+|  | 12 | 08/01/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
+| [4]() | 13 | 14/01/2019 | Strings, Lists, and Arrays | :x: |  |  |  |
+|  | 14 | 21/01/2019 |  |  |  |  |  |
+|  | 15 | 28/01/2019 |  |  |  |  |  |
+|  | 16 | 04/02/2019 |  |  |  |  |  |
+|  | 17 | 11/02/2019 |  |  |  |  |  |
+|  | 19 | 18/02/2019 | **FAMILY DAY** |  |  |  |  |
+|  | 20 | 24/02/2019 |  |  |  |  |  |
+|  | 21 | 04/03/2019 |  |  |  |  |  |
+|  | 22 | 11/03/2019 |  |  |  |  |  |
+|  | | 18/03/2019 | **SPRING BREAK** | | | | |
+|  | | 25/03/2019 | **SPRING BREAK** | | | | |
+|  | 23 | 01/04/2019 |  |  |  |  |  |
+|  | 24 | 08/04/2019 |  |  |  |  |  |
+|  | 25 | 15/04/2019 |  |  |  |  |  |
+|  | | 22/04/2019 | **EASTER MONDAY** |  |  |  |  |
+| | 26 | 29/04/2019 |  |  |  |  |  |
+| | 27 | 06/05/2019 |  |  |  |  |  |
+| | 28 | 13/05/2019 |  |  |  |  |  |
 | | | 17/05/2019 | **EXAM DAY** |  |  |  |  |
 
 **subject to change**
