@@ -132,12 +132,12 @@ Collection in progress :)
 | [2](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/3) | 8 | 27/11/2018 | Recursion, Implementation Techniques, and I/O | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_2/T208-27112018.md) | :white_check_mark: | :x: |
 | [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 9 | 04/12/2018 | Software Development Life Cycle (SDLC) | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T309-04122018.md) | :white_check_mark: | :x: |
 | [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 10 | 11/12/2018 | Program Correctness and Testing | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T310-11122018.md) | :white_check_mark: | :white_check_mark: |
-| [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 11 | 18/12/2019 | Algorithm Efficiency | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T310-18122018.md) | :white_check_mark: | :white_check_mark: |
+| [3](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/6) | 11 | 18/12/2019 | Algorithm Efficiency | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_3/T311-18122018.md) | :white_check_mark: | :white_check_mark: |
 |  | | 25/12/2018 | **CHRISTMAS DAY** | | | | |
 |  | | 01/01/2019 | **NEW YEAR'S DAY** | | | | |
 |  | 12 | 08/01/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
-| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 13 | 14/01/2019 | Object Class, String Class, and Math Class | :x: |  |  |  |
-| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 14 | 21/01/2019 |  |  |  |  |  |
+| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 13 | 14/01/2019 | Object Class, String Class, and Math Class | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_4/T413-14012019.md) | :white_check_mark: | :x: |
+| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 14 | 21/01/2019 | Arrays, Array Lists, Collections, and 2-D Arrays | :white_check_mark: |  | :white_check_mark: | :x: |
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 15 | 28/01/2019 |  |  |  |  |  |
 |  | 16 | 04/02/2019 |  |  |  |  |  |
 |  | 17 | 11/02/2019 |  |  |  |  |  |
