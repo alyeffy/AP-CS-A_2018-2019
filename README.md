@@ -16,7 +16,7 @@ For **most recent updates and announcements**, please see the [issues](https://g
 - **Instructor**: [Alyssa Fegen](http://www.alyssafegen.com), BSc. Combined Major - Computer Science & Microbiology
 - **Contact**: [Email](mailto:alyssafegen@alumni.ubc.ca)
 - **Location**: [Elite Educational Institute](http://www.eliteprep.ca/?lang=en) - Richmond Campus (5560-8181 Cambie Rd, Richmond, BC V6X 3X9)
-- **Class Time**: Mondays, 16:15 - 18:15 (**2 hours a week**, **25 Classes Total** i.e. **50 hours of in-class instruction time**)
+- **Class Time**: Mondays, 15:45 - 17:45 (**2 hours a week**, **25 Classes Total** i.e. **50 hours of in-class instruction time**)
 ### Teaching Style
 Classes are modeled after university-style CS courses and will vary, but generally have one or a mix of the following structures:
 - **Lecture and class discussion** on new concepts and syntax from the current topic
@@ -138,7 +138,7 @@ Collection in progress :)
 |  | 12 | 08/01/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 13 | 14/01/2019 | Object Class, String Class, and Math Class | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_4/T413-14012019.md) | :white_check_mark: | :x: |
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 14 | 21/01/2019 | Arrays, Array Lists, Collections, and 2-D Arrays | :white_check_mark: |  | :white_check_mark: | :x: |
-| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 15 | 28/01/2019 |  |  |  |  |  |
+| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 15 | 28/01/2019 | AP Lab: Magpie | :white_check_mark: | [here](http://media.collegeboard.com/digitalServices/pdf/ap/magpie-lab-student-guide.pdf) |  | :white_check_mark: |
 |  | 16 | 04/02/2019 |  |  |  |  |  |
 |  | 17 | 11/02/2019 |  |  |  |  |  |
 |  | 19 | 18/02/2019 | **FAMILY DAY** |  |  |  |  |
