@@ -60,8 +60,6 @@ ASSESSMENT:
 - **DURATION**:   3 Hours
 - **LOCATION**:   TBD
 
-Registration information will be available shortly.
-
 ### Exam Format
 - **Section I**: 40 Multiple Choice Questions | 1 H : 30 Min | 50% of Final Score
 - **Section II**: 4 Free Response Questions | 1 H : 30 Min | 50% of Final Score
@@ -75,7 +73,33 @@ Registration information will be available shortly.
 | 2 | Possibly qualified |
 | 1 | No recommendation |
 
-Depending on the university you are intending to apply to, **your exam score will determine if you are allowed to receive credits** for corresponding Computer Science courses (and possibly the grade as well).
+You must register for an [AP College Board Student account](https://cbaccount.collegeboard.org/iamweb/smartRegister?appId=287&DURL=https://apscore.collegeboard.org/scores/view-your-scores) in order to view your score.
+
+### Exam Policies
+As with any exam, there are certain rules you need to follow, such as what and what not to bring to the exam, in order for your exam submission to be valid. These can be found in the [Bulletin for AP Students and Parents 2018-19](https://apcentral.collegeboard.org/pdf/ap-student-parent-bulletin-2018-19.pdf) that you should read prior to registering and taking the exam. On the exam day, you will be signing a statement indicating that you have read and agree to the policies outlined in the bulletin before you can take the exam.
+
+If you require [test accommodations](https://apstudent.collegeboard.org/takingtheexam/testing-accommodations) due to a documented disability, you must request these accommodations from the [College Board Services for Students with Disabilities office](https://www.collegeboard.org/students-with-disabilities/exam-administration/administrating-ap-exams-accommodations?excmpid=MTG362-PR-1-mat) by **22 February 2019**.
+
+### Exam Fees
+Generally, the cost of taking the exam in the US and Canada is **$94**. However, additional fees (e.g. administrative fees) may apply depending on which testing centre you are taking the exam at. If you decide to take the exam on another date during the late-testing period, there will be an additional **$45** charge. In some cases, if you have paid for the exam but decided not to take it, contact your AP coordinator for a refund. The amount refunded will vary, but you will probably be charged the **$15** fee that the school is charged for each unused exam.
+
+If you have significant financial need, you may be eligible for a **$32** College Board fee reduction per AP Exam, depending on your location. Check with your AP coordinator to learn more about eligibility requirements for College Board fee reductions, state/provincial and district/municipal subsidies, and other support that may be available.
+
+### College Credit Policy
+Depending on the university you are intending to apply to, **your exam score will determine if you are allowed to receive credits** for corresponding Computer Science courses. You can find information on the minimum score required (usually 4), amount of credits you'll receive for attaining that score (usually 3), and the course(s) you get exemption from if you achieve the score, for each eligible institution over [here](https://apstudent.collegeboard.org/creditandplacement/search-credit-policies).
+
+### Exam Registration
+As you are taking this course externally and if you intend to take the exam, you must first contact AP Services for Students to get information about local nearby AP coordinators by **1 March 2019**. You can contact them anywhere below:
+- +1 (888) 225-5427 (Toll-free in the US and Canada)
+- +1 (212) 632-1780
+- [apstudents@info.collegeboard.org](mailto:apstudents@info.collegeboard.org)
+
+After that, you must register independently by **15 March 2019**, by contacting the AP coordinators identified by AP services to arrange a testing for you. More information is available [here](https://apcentral.collegeboard.org/pdf/student-resource-finding-test-site-2018-19.pdf)
+
+It is recommended you do this in advance to ensure that the locations you are interested in administer the AP Computer Science A exam, and to ensure that there is a spot available for you to take the exam in your desired location (first-come, first-served).
+
+### Exam Preparation
+After learning all the course material, labs will be used to apply the material to better understand it. In addition, there will be programming assignments and maybe a capstone project to further utilize this material in practice as well. EEI has several practice examinations in addition to the [past exams](https://apstudent.collegeboard.org/apcourse/ap-computer-science-a/exam-practice) available on the AP site, and students will undergo rigorous mock testing and exam question discussion and problem-solving in the weeks prior to the exam. Review and Q&A sessions will be provided as needed, and I will be available to answer questions in GitHub as well.
 
 ## [Resources](https://github.com/alyeffy/AP-CS-A_2018-2019/tree/master/Resources)
 - [Java Quick Reference](https://secure-media.collegeboard.org/digitalServices/pdf/ap/explore-ap/ap-computer-science-a-2014-java-quick-reference.pdf) - **IMPORTANT**, provided in your AP exam booklet
