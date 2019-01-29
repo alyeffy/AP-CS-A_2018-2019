@@ -138,7 +138,7 @@ Collection in progress :)
 |  | 12 | 08/01/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 13 | 14/01/2019 | Object Class, String Class, and Math Class | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_4/T413-14012019.md) | :white_check_mark: | :x: |
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 14 | 21/01/2019 | Arrays, Array Lists, Collections, and 2-D Arrays | :white_check_mark: |  | :white_check_mark: | :x: |
-| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 15 | 28/01/2019 | AP Lab: Magpie | :white_check_mark: | [here](http://media.collegeboard.com/digitalServices/pdf/ap/magpie-lab-student-guide.pdf) |  | :white_check_mark: |
+| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 15 | 28/01/2019 | AP Lab: Magpie | :white_check_mark: | [here](http://media.collegeboard.com/digitalServices/pdf/ap/magpie-lab-student-guide.pdf) | :white_check_mark: | :white_check_mark: |
 |  | 16 | 04/02/2019 |  |  |  |  |  |
 |  | 17 | 11/02/2019 |  |  |  |  |  |
 |  | 19 | 18/02/2019 | **FAMILY DAY** |  |  |  |  |
