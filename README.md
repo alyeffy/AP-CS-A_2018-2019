@@ -58,7 +58,7 @@ ASSESSMENT:
 - **DATE**:       Friday, 17 May 2019
 - **TIME**:       12:00 - 15:00
 - **DURATION**:   3 Hours
-- **LOCATION**:   TBD
+- **LOCATION**:   Vancouver School Board Education Centre, 1580 W Broadway, Vancouver, BC V6J 5K8
 
 ### Exam Format
 - **Section I**: 40 Multiple Choice Questions | 1 H : 30 Min | 50% of Final Score
@@ -163,14 +163,14 @@ Collection in progress :)
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 13 | 14/01/2019 | Object Class, String Class, and Math Class | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_4/T413-14012019.md) | :white_check_mark: | :x: |
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 14 | 21/01/2019 | Arrays, Array Lists, Collections, and 2-D Arrays | :white_check_mark: |  | :white_check_mark: | :x: |
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 15 | 28/01/2019 | AP Lab: Magpie | :white_check_mark: | [here](http://media.collegeboard.com/digitalServices/pdf/ap/magpie-lab-student-guide.pdf) | :white_check_mark: | :white_check_mark: |
-|  | 16 | 04/02/2019 |  |  |  |  |  |
-|  | 17 | 11/02/2019 |  |  |  |  |  |
+|  | 16 | 04/02/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
+|  | 17 | 11/02/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
 |  | 19 | 18/02/2019 | **FAMILY DAY** |  |  |  |  |
-|  | 20 | 24/02/2019 |  |  |  |  |  |
-|  | 21 | 04/03/2019 |  |  |  |  |  |
-|  | 22 | 11/03/2019 |  |  |  |  |  |
-|  | | 18/03/2019 | **SPRING BREAK** | | | | |
-|  | | 25/03/2019 | **SPRING BREAK** | | | | |
+| [5]() | 20 | 25/02/2019 | Common Basic Algorithms | :x: |  |  | :x: |
+| [5]() | 21 | 04/03/2019 |  |  |  |  |  |
+| [5]() | 22 | 11/03/2019 |  |  |  |  |  |
+|  | | 18/03/2019 | | | | | |
+|  | | 25/03/2019 | | | | | |
 |  | 23 | 01/04/2019 |  |  |  |  |  |
 |  | 24 | 08/04/2019 |  |  |  |  |  |
 |  | 25 | 15/04/2019 |  |  |  |  |  |
