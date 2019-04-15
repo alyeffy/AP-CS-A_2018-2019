@@ -161,23 +161,23 @@ Collection in progress :)
 |  | | 01/01/2019 | **NEW YEAR'S DAY** | | | | |
 |  | 12 | 08/01/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 13 | 14/01/2019 | Object Class, String Class, and Math Class | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_4/T413-14012019.md) | :white_check_mark: | :x: |
-| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 14 | 21/01/2019 | Arrays, Array Lists, Collections, and 2-D Arrays | :white_check_mark: |  | :white_check_mark: | :x: |
+| [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 14 | 21/01/2019 | Arrays, Array Lists, Collections, and 2-D Arrays | :white_check_mark: | here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_4/T414-21012019.md) | :white_check_mark: | :x: |
 | [4](https://github.com/alyeffy/AP-CS-A_2018-2019/issues/9) | 15 | 28/01/2019 | AP Lab: Magpie | :white_check_mark: | [here](http://media.collegeboard.com/digitalServices/pdf/ap/magpie-lab-student-guide.pdf) | :white_check_mark: | :white_check_mark: |
 |  | 16 | 04/02/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
 |  | 17 | 11/02/2019 | **CANCELLED** | :x: | :x: | :x: | :x: |
 |  | 19 | 18/02/2019 | **FAMILY DAY** |  |  |  |  |
-| [5]() | 20 | 25/02/2019 | Common Basic Algorithms | :x: |  |  | :x: |
-| [5]() | 21 | 04/03/2019 |  |  |  |  |  |
-| [5]() | 22 | 11/03/2019 |  |  |  |  |  |
-|  | | 18/03/2019 | | | | | |
-|  | | 25/03/2019 | | | | | |
-|  | 23 | 01/04/2019 |  |  |  |  |  |
-|  | 24 | 08/04/2019 |  |  |  |  |  |
-|  | 25 | 15/04/2019 |  |  |  |  |  |
-|  | | 22/04/2019 | **EASTER MONDAY** |  |  |  |  |
-| | 26 | 29/04/2019 |  |  |  |  |  |
-| | 27 | 06/05/2019 |  |  |  |  |  |
-| | 28 | 13/05/2019 |  |  |  |  |  |
+| [5]() | 20 | 25/02/2019 | Common Basic Algorithms | :x: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_5/T520-25022019.md) | :white_check_mark: | :x: |
+| [5]() | 21 | 04/03/2019 | Searches & Sorts | :white_check_mark: | [here](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_5/T521-04032019.md) | :white_check_mark: |  |
+| [6]() | 22 | 11/03/2019 | Computing in Context | :x: | [TBD](https://github.com/alyeffy/AP-CS-A_2018-2019/blob/master/Lectures/Topic_6/T622-11032019.md) | :x: | :x: |
+|  | | 18/03/2019 | **SPRING BREAK** | | | | |
+|  | | 25/03/2019 | **SPRING BREAK** | | | | |
+|  | | 01/04/2019 | **CANCELLED** |  |  |  |  |
+| [+]() | 23 | 08/04/2019 | Review + Exam Prep |  |  |  |  |
+| [+]() | 24 | 15/04/2019 | Review + Exam Prep |  |  |  |  |
+| [+]() | | 22/04/2019 | Review + Exam Prep |  |  |  |  |
+| [+]() | 25 | 29/04/2019 | MOCK EXAM |  |  |  |  |
+| [+]() | 26 | 06/05/2019 | Review + Exam Prep |  |  |  |  |
+| [+]() | 27 | 13/05/2019 | Review + Exam Prep |  |  |  |  |
 | | | 17/05/2019 | **EXAM DAY** |  |  |  |  |
 
 **subject to change**
